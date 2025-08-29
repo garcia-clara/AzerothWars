@@ -1,0 +1,14 @@
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.GeneratedMSBuildEditorConfig.editorconfig
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.AssemblyInfoInputs.cache
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.AssemblyInfo.cs
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.csproj.CoreCompileInputs.cache
+/home/clara/C#/AzerothWars/bin/Debug/net8.0/AzerothWars
+/home/clara/C#/AzerothWars/bin/Debug/net8.0/AzerothWars.deps.json
+/home/clara/C#/AzerothWars/bin/Debug/net8.0/AzerothWars.runtimeconfig.json
+/home/clara/C#/AzerothWars/bin/Debug/net8.0/AzerothWars.dll
+/home/clara/C#/AzerothWars/bin/Debug/net8.0/AzerothWars.pdb
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.dll
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/refint/AzerothWars.dll
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.pdb
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/AzerothWars.genruntimeconfig.cache
+/home/clara/C#/AzerothWars/obj/Debug/net8.0/ref/AzerothWars.dll
